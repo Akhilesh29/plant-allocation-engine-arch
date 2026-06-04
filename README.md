@@ -1,4 +1,4 @@
-# allocation engine arch
+# plant allocation engine arch
 
 plant delivery platform: **nursery warehouse (hsr) → zone hub (whitefield) → customer doorstep**. we deliver **within a day**, not instant quick-commerce. flow: customer places order → hub pickup → live tracking → otp delivery.
 
