@@ -20,8 +20,6 @@ plants move from the main nursery warehouse to the zone hub over the orr route. 
 
 **infra:** kubernetes, aws/gcp, google maps (traffic-aware), sms gateway, cdn.
 
-**delivery promise:** orders allocated and routed for **same-day delivery** — cut-off based, not minutes-level quick commerce.
-
 ---
 
 ## order allocation + tracking flow
