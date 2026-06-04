@@ -1,6 +1,6 @@
 # plant allocation engine arch
 
-plant delivery platform: **nursery warehouse (hsr) → zone hub (whitefield) → customer doorstep**. we deliver **within a day**, not instant quick-commerce. flow: customer places order → hub pickup → live tracking → otp delivery.
+plant delivery platform: **nursery warehouse (hsr) → zone hub (whitefield) → customer doorstep**. flow: customer places order → hub pickup → live tracking → otp delivery.
 
 ---
 
@@ -50,4 +50,4 @@ partner gps over websocket → tracking service stores location + **day delivery
 | redis | partner state, allocation locks |
 | kafka | async domain events |
 
-repo: https://github.com/Akhilesh29/allocation-engine-arch
+repo: https://github.com/Akhilesh29/plant-allocation-engine-arch
